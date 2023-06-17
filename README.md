@@ -12,6 +12,7 @@ Klone repositori ini ke komputer Anda dengan perintah: git clone <URL_Repositori
 Instal semua dependensi yang diperlukan dengan menjalankan: <perintah_instalasi_dependensi>.
 Anda dapat menjalankan notebook Jupyter yang ada di folder notebooks/ untuk melihat dan menjalankan analisis yang telah dilakukan.
 Hasil analisis dan visualisasi dapat ditemukan di folder results/.
+
 # Kontribusi
 Kontribusi terhadap repositori ini sangat diterima. Jika Anda ingin melakukan perbaikan atau menambahkan fitur baru, ikuti langkah-langkah berikut:
 

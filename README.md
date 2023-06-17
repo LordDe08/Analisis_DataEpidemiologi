@@ -14,5 +14,5 @@ Anda dapat menjalankan notebook Jupyter yang ada di folder notebooks/ untuk meli
 Hasil analisis dan visualisasi dapat ditemukan di folder results/.
 
 # Kontribusi
-Kontribusi terhadap repositori ini sangat diterima. Jika Anda ingin melakukan perbaikan atau menambahkan fitur baru, ikuti langkah-langkah berikut:
+Kontribusi terhadap repositori ini sangat diterima. Terima Kasih
 
